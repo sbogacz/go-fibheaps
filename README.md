@@ -1,0 +1,2 @@
+# go-fibheaps
+This repo is intended for me to explore the Fibonacci-heap data structure, and to provide a library for its use. The code is based on the [paper by Fredman and Tarjan proposing it](https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/fibonacci%20heaps.pdf) and the [pseudo-code here laid out](http://www.cs.princeton.edu/~wayne/cs423/fibonacci/FibonacciHeapAlgorithm.html)  
